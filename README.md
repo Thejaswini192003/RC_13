@@ -7,15 +7,25 @@ Goodcabs, a leading cab service in tier-2 Indian cities, is on a mission to achi
 
 # Table of Contents
 Project Presentation
+
 Live Dashboard
+
 Tools & Techniques
+
 Problem Statement
+
 Goal & Purpose
+
 Data Source
+
 Data Modeling
+
 Key Metrics
+
 Primary Analysis
+
 Secondary Analysis
+
 Recommendations
 
 # Project Presentation
@@ -98,7 +108,6 @@ The dataset, provided by Codebasics, offers a rich view of Goodcabs' operations:
  •	Passenger Insights: Average Fare per Trip/Km, Ratings, and Passenger Types (New vs. Repeat).
  
  •	Operational Trends: Monthly Revenue Growth, Target Achievement.
-
 
 # Primary Analysis
   •	Rank cities by total trips to find top performers and underperformers.
