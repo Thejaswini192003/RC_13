@@ -6,9 +6,12 @@
 Goodcabs, a leading cab service in tier-2 Indian cities, is on a mission to achieve ambitious growth and deliver exceptional customer satisfaction in 2024. This project dives deep into key metrics like trip volume, passenger satisfaction, and repeat passenger rates to uncover meaningful insights. The goal? To empower the Chief of Operations with actionable recommendations that fuel growth, enhance passenger experiences, and optimize operations.
 
 # Table of Contents
+
 Project Presentation
 
 Live Dashboard
+
+Goodcabs Presentation
 
 Tools & Techniques
 
