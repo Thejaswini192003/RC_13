@@ -29,6 +29,7 @@ Recommendations
 
 # Tools & Techniques
   Data Analysis
+  
    •	MS Excel
   
    •	MySQL Workbench
