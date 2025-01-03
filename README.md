@@ -32,7 +32,7 @@ Secondary Analysis
 Recommendations
 
 # Project Presentation
-🎥 Watch the detailed insights in Goodcabs' presentation: 
+🎥 Watch the detailed insights in Goodcabs' presentation: https://tinyurl.com/23ftzz3n
 
 # Live Dashboard
 🔍 Uncover insights about Goodcabs: http://tiny.cc/blk3001
@@ -66,6 +66,8 @@ Recommendations
   •	Microsoft PowerPoint
   
   •	Zoom
+  
+  •	Canva
     
 # Problem Statement
 Goodcabs, operating in 10 tier-2 cities, is striving to hit bold growth and satisfaction goals for 2024. The Chief of Operations needs immediate insights into metrics like trip volume, passenger satisfaction, and repeat passenger rates. With the analytics manager unavailable, this project steps in to analyze the data and deliver impactful solutions.
